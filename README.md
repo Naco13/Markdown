@@ -59,7 +59,7 @@ public class Inicio {
  [pagina de google] (www.google.es)
  [la arboleda] (www.laarboleda.es)
  [bbva] (www.bbva.es)
- [listas ordenadas] (.../Markdown#listas-ordenadas)
+ [listas ordenadas] (https://github.com/Naco13/Markdown/blob/main/README.md#listas-ordenadas)
 
 
 ### _Imagenes_
