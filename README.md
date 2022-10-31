@@ -8,13 +8,13 @@ INDICE
 6.- Tablas
 7.- Listas con check
 
-## **indice** {#INDICE}
+## **indice** 
 
-### _Listas ordenadas_
+### _Listas ordenadas_ (#1)
 1 alimentos solidos
 2 alimentos liquidos
 
-### _ Listas desordenadas_
+###  _ Listas desordenadas_ (#2)
 
 *alimentos solidos 
     *almendras
@@ -27,7 +27,7 @@ INDICE
     *agua
     *cerveza
 
-### _Código_
+### _Código_ (#3)
 
 'import java.util.Scanner;
 
@@ -48,13 +48,15 @@ public class Inicio {
 	}
 }'
  
-### _Enlaces_
+### _Enlaces_ (#4)
 
-  [pagina de google] (www.google.es)
-  [la arboleda] (www.laarboleda.es)
-  [bbva] (www.bbva.es)
-  [listas ordenadas] (#INDICE)
-
+    [pagina de google] (www.google.es)
+    [la arboleda] (www.laarboleda.es)
+    [bbva] (www.bbva.es)
+    [listas ordenadas] (#1)
+    [listas desordenadas] (#2)
+    [código] (#3)
+    [enlaces] (#4)
 
 ### _imagenes_
 
