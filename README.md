@@ -8,14 +8,13 @@ INDICE
 6.- Tablas
 7.- Listas con check
 
-## **indice** 
+## **INDICE** 
 
-### _Listas ordenadas_  {#1}
+### _Listas ordenadas_  
 1 alimentos solidos
 2 alimentos liquidos
 
-
-###  _ Listas desordenadas_ {#2}
+###  _ Listas desordenadas_
 
 *alimentos solidos 
     *almendras
@@ -28,7 +27,7 @@ INDICE
     *agua
     *cerveza
 
-### _Código_ {#3}
+### _Código_
 
 'import java.util.Scanner;
 
@@ -49,17 +48,15 @@ public class Inicio {
 	}
 }'
  
-### _Enlaces_ {#4}
+### _Enlaces_ 
 
  [pagina de google] (www.google.es)
  [la arboleda] (www.laarboleda.es)
  [bbva] (www.bbva.es)
- [listas ordenadas] (#1)
- [listas desordenadas] (#2)
- [código] (#3)
- [enlaces] (#4)
+ [listas ordenadas] (# bbva)
 
-### _imagenes_
+
+### _Imagenes_
 
 |[imagen de un pollo](http://c.files.bbci.co.uk/12C50/production/_103908867_pollo.jpg)
 |[imagen de un salmon](https://www.gastronomiavasca.net/uploads/image/file/3268/salmon.jpg)
@@ -75,7 +72,7 @@ public class Inicio {
 | Iveco | Citroen | Suzuki |
 | Mann | Peugeot | Honda |
 
-### _listas con check__
+### _Listas con check__
 
 - [ ] Compra de alimentos
 - [ ] Compra de bebidas
