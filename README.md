@@ -68,6 +68,7 @@ public class Inicio {
 | Primera columna | Segunda columna | Tercera columna |
 | -- | -- | -- |
 | Camiones | Coches | Motos |
+| -- | -- | -- |
 | Iveco | Citroen | Suzuki |
 | Mann | Peugeot | Honda |
 
