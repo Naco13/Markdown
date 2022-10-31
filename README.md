@@ -21,5 +21,24 @@ INDICE
     *aceite
     *agua
     *cerveza
+## __Código__
+import java.util.Scanner;
 
-    
+public class Inicio {
+public static void ejercicio1() {
+
+			int num;
+			int res = 0;
+			
+					
+			Scanner entrada=new Scanner(System.in);
+			System.out.print("dame un numero entero: ");
+			num = entrada.nextInt();
+			res = num+3;
+			
+			System.out.println("El numero " + num +  " + 3 es: " + res );	
+
+	}
+  } 
+  ##__Enlaces__
+  
