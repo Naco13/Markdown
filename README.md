@@ -13,6 +13,7 @@ INDICE
 ### _Listas ordenadas_  
 1 alimentos solidos
 2 alimentos liquidos
+3 alimentos gaseosos
 
 ###  _ Listas desordenadas_
 
@@ -26,10 +27,15 @@ INDICE
     *aceite
     *agua
     *cerveza
+* alimentos gaseosos
+    * aire
+    *gas    
+
 
 ### _Código_
 
-'import java.util.Scanner;
+```js
+import java.util.Scanner;
 
 public class Inicio {
     public static void ejercicio1() {
