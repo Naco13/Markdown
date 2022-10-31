@@ -15,6 +15,7 @@ INDICE
 2 alimentos liquidos
 3 alimentos gaseosos
 
+
 ### _Listas desordenadas_
 
 *alimentos solidos 
@@ -27,6 +28,7 @@ INDICE
     *aceite
     *agua
     *cerveza
+
 *alimentos gaseosos
     *aire
     *gas    
