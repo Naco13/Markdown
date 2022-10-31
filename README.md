@@ -73,7 +73,7 @@ public class Inicio {
 
 ### _listas con check__
 
-- [X ] Compra de alimentos
+- [ ] Compra de alimentos
 - [ ] Compra de bebidas
 - [ ] Compra de vehiculos
 
