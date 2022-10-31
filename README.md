@@ -39,7 +39,8 @@ public class Inicio {
 			System.out.println("El numero " + num +  " + 3 es: " + res );	
 
 	}
-} 
+}
+ 
 ##__Enlaces__
 
   [pagina de google] (www,google.es)
