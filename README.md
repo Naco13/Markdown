@@ -59,7 +59,11 @@ public class Inicio {
  [pagina de google] (www.google.es)
  [la arboleda] (www.laarboleda.es)
  [bbva] (www.bbva.es)
+<<<<<<< HEAD
  [listas ordenadas] (/README.md#listas-ordenadas)
+=======
+ [listas ordenadas] (README.md#listas-ordenadas)
+>>>>>>> main
 
 
 ### _Imagenes_
