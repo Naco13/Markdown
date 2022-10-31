@@ -7,3 +7,9 @@ INDICE
 5.- Imagenes
 6.- Tablas
 7.- Listas con check
+# indice
+## Listas ordenadas
+*compra
+ *leche 
+ *almendras
+ *pollo
