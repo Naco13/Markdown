@@ -7,7 +7,8 @@ INDICE
 5.- Imagenes
 6.- Tablas
 7.- Listas con check
-## **indice** {#indice}
+
+## **indice** {#1}
 
 ### _Listas ordenadas_
 1 alimentos solidos
@@ -52,7 +53,7 @@ public class Inicio {
   [pagina de google] (www.google.es)
   [la arboleda] (www.laarboleda.es)
   [bbva] (www.bbva.es)
-  [listas ordenadas] (#indice)
+  [listas ordenadas] (#1)
 
 
 ### _imagenes_
@@ -72,9 +73,9 @@ public class Inicio {
 
 ### _listas con check__
 
-- [ ] compra de alimentos
-- [ ] compra de bebidas
-- [ ]compra de vehiculos
+- [ ] Compra de alimentos
+- [ ] Compra de bebidas
+- [ ] Compra de vehiculos
 
 
 
