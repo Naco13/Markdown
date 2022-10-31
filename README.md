@@ -7,25 +7,28 @@ INDICE
 5.- Imagenes
 6.- Tablas
 7.- Listas con check
-# **indice** {#indice}
+## **indice** {#indice}
 
-##__Listas ordenadas__
+### _Listas ordenadas_
 1 alimentos solidos
 2 alimentos liquidos
 
-##__ Listas desordenadas__
+### _ Listas desordenadas_
+
 *alimentos solidos 
     *almendras
     *pollo
     *salmon
     *pistachos
+
 *alimentos liquidos
     *aceite
     *agua
     *cerveza
 
-## __Código__
-import java.util.Scanner;
+### _Código_
+
+'import java.util.Scanner;
 
 public class Inicio {
     public static void ejercicio1() {
@@ -42,9 +45,9 @@ public class Inicio {
 			System.out.println("El numero " + num +  " + 3 es: " + res );	
 
 	}
-}
+}'
  
-##__Enlaces__
+### _Enlaces_
 
   [pagina de google] (www.google.es)
   [la arboleda] (www.laarboleda.es)
@@ -52,14 +55,14 @@ public class Inicio {
   [listas ordenadas] (#indice)
 
 
-##__imagenes__
+### _imagenes_
 
 |[imagen de un pollo](http://c.files.bbci.co.uk/12C50/production/_103908867_pollo.jpg)
 |[imagen de un salmon](https://www.gastronomiavasca.net/uploads/image/file/3268/salmon.jpg)
 |[imagen de botella aceite](https://img.freepik.com/fotos-premium/aceite-cocina-botella-plastico-blanco_35712-553.jpg?w=2000)
 |[foto interna](C:\Users\jiavi\OneDrive\Escritorio\F.P. DAM\ENTORNO\Markdown\wallpaperflare.com_wallpaper.jpg)
 
-##__Tablas__
+### _Tablas_
 
 | Primera columna | Segunda columna | Tercera columna |
 | -- | -- | -- |
@@ -67,11 +70,11 @@ public class Inicio {
 | Iveco | Citroen | Suzuki |
 | Mann | Peugeot | Honda |
 
-## _listas con check__
+### _listas con check__
 
 - [ ] compra de alimentos
 - [ ] compra de bebidas
-
+- [ ]compra de vehiculos
 
 
 
