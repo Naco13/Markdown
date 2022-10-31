@@ -15,7 +15,7 @@ INDICE
 2 alimentos liquidos
 3 alimentos gaseosos
 
-### _ Listas desordenadas_
+### _Listas desordenadas_
 
 *alimentos solidos 
     *almendras
@@ -27,8 +27,8 @@ INDICE
     *aceite
     *agua
     *cerveza
-* alimentos gaseosos
-    * aire
+*alimentos gaseosos
+    *aire
     *gas    
 
 
@@ -80,7 +80,7 @@ public class Inicio {
 | Iveco | Citroen | Suzuki |
 | Mann | Peugeot | Honda |
 
-### _Listas con check__
+### _Listas con check_
 
 - [ ] Compra de alimentos
 - [ ] Compra de bebidas
