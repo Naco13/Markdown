@@ -10,11 +10,12 @@ INDICE
 
 ## **indice** 
 
-### _Listas ordenadas_ (#1)
+### _Listas ordenadas_  {#1}
 1 alimentos solidos
 2 alimentos liquidos
 
-###  _ Listas desordenadas_ (#2)
+
+###  _ Listas desordenadas_ {#2}
 
 *alimentos solidos 
     *almendras
@@ -27,7 +28,7 @@ INDICE
     *agua
     *cerveza
 
-### _Código_ (#3)
+### _Código_ {#3}
 
 'import java.util.Scanner;
 
@@ -48,7 +49,7 @@ public class Inicio {
 	}
 }'
  
-### _Enlaces_ (#4)
+### _Enlaces_ {#4}
 
  [pagina de google] (www.google.es)
  [la arboleda] (www.laarboleda.es)
