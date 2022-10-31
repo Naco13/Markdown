@@ -7,15 +7,19 @@ INDICE
 5.- Imagenes
 6.- Tablas
 7.- Listas con check
-# indice
-## Listas ordenadas
+# **indice**
+##__Listas ordenadas__
+1 alimentos solidos
+2 alimentos liquidos
+##__ Listas desordenadas__
 *alimentos solidos 
     *almendras
     *pollo
     *salmon
-    pistachos
-*bebidas
+    *pistachos
+*alimentos liquidos
     *aceite
     *agua
     *cerveza
-##**listas desordenadas**
+
+    
