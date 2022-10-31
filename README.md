@@ -9,8 +9,13 @@ INDICE
 7.- Listas con check
 # indice
 ## Listas ordenadas
-*compra
- *leche 
- *almendras
- *pollo
+*alimentos solidos 
+    *almendras
+    *pollo
+    *salmon
+    pistachos
+*bebidas
+    *aceite
+    *agua
+    *cerveza
 ##**listas desordenadas**
