@@ -39,6 +39,13 @@ public static void ejercicio1() {
 			System.out.println("El numero " + num +  " + 3 es: " + res );	
 
 	}
-  } 
-  ##__Enlaces__
+} 
+##__Enlaces__
+
+  [pagina de google](www,google.es)
+  [la arboleda](www.laarboleda,es)
+  [bbva](www.bbva.es)
+  [listas ordenadas](doc/modificacion4)
+##__imagenes__
+
   
