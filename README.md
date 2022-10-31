@@ -7,7 +7,7 @@ INDICE
 5.- Imagenes
 6.- Tablas
 7.- Listas con check
-# **indice**
+# **indice** {#indice}
 
 ##__Listas ordenadas__
 1 alimentos solidos
@@ -57,9 +57,20 @@ public class Inicio {
 |[imagen de un pollo](http://c.files.bbci.co.uk/12C50/production/_103908867_pollo.jpg)
 |[imagen de un salmon](https://www.gastronomiavasca.net/uploads/image/file/3268/salmon.jpg)
 |[imagen de botella aceite](https://img.freepik.com/fotos-premium/aceite-cocina-botella-plastico-blanco_35712-553.jpg?w=2000)
-|[foto interna](C:\Users\jiavi\OneDrive\Escritorio\N)
+|[foto interna](C:\Users\jiavi\OneDrive\Escritorio\F.P. DAM\ENTORNO\Markdown)
 
 
 ##__Tablas__
+
+| Primera columna | Segunda columna | Tercera columna |
+| -- | -- | -- |
+| Camiones | Coches | Motos |
+| Iveco | Citroen | Suzuki |
+| Man | Peugeot | Honda |
+
+## _listas con check__
+
+
+
 
   
