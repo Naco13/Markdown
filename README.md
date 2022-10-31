@@ -50,13 +50,13 @@ public class Inicio {
  
 ### _Enlaces_ (#4)
 
-    [pagina de google] (www.google.es)
-    [la arboleda] (www.laarboleda.es)
-    [bbva] (www.bbva.es)
-    [listas ordenadas] (#1)
-    [listas desordenadas] (#2)
-    [código] (#3)
-    [enlaces] (#4)
+ [pagina de google] (www.google.es)
+ [la arboleda] (www.laarboleda.es)
+ [bbva] (www.bbva.es)
+ [listas ordenadas] (#1)
+ [listas desordenadas] (#2)
+ [código] (#3)
+ [enlaces] (#4)
 
 ### _imagenes_
 
