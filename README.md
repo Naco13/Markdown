@@ -34,7 +34,7 @@ INDICE
 
 ### _Código_
 
-```js
+
 import java.util.Scanner;
 
 public class Inicio {
@@ -52,14 +52,14 @@ public class Inicio {
 			System.out.println("El numero " + num +  " + 3 es: " + res );	
 
 	}
-}'
+}
  
 ### _Enlaces_ 
 
  [pagina de google] (www.google.es)
  [la arboleda] (www.laarboleda.es)
  [bbva] (www.bbva.es)
- [listas ordenadas] (# bbva)
+ [listas ordenadas] (https://github.com/Naco13/Markdown#listas-ordenadas)
 
 
 ### _Imagenes_
