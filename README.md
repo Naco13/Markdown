@@ -57,8 +57,7 @@ public class Inicio {
 |[imagen de un pollo](http://c.files.bbci.co.uk/12C50/production/_103908867_pollo.jpg)
 |[imagen de un salmon](https://www.gastronomiavasca.net/uploads/image/file/3268/salmon.jpg)
 |[imagen de botella aceite](https://img.freepik.com/fotos-premium/aceite-cocina-botella-plastico-blanco_35712-553.jpg?w=2000)
-|[foto interna](C:\Users\jiavi\OneDrive\Escritorio\F.P. DAM\ENTORNO\Markdown)
-
+|[foto interna](C:\Users\jiavi\OneDrive\Escritorio\F.P. DAM\ENTORNO\Markdown\wallpaperflare.com_wallpaper.jpg)
 
 ##__Tablas__
 
@@ -66,9 +65,13 @@ public class Inicio {
 | -- | -- | -- |
 | Camiones | Coches | Motos |
 | Iveco | Citroen | Suzuki |
-| Man | Peugeot | Honda |
+| Mann | Peugeot | Honda |
 
 ## _listas con check__
+
+- [ ] compra de alimentos
+- [ ] compra de bebidas
+
 
 
 
