@@ -44,9 +44,9 @@ public class Inicio {
 ##__Enlaces__
 
   [pagina de google] (www,google.es)
-  [la arboleda] (www.laarboleda,es)
+  [la arboleda] (www.laarboleda.es)
   [bbva] (www.bbva.es)
-  [listas ordenadas] (doc/modificacion4)
+  [listas ordenadas] (#indice)
 ##__imagenes__
 |[imagen de un pollo](http://c.files.bbci.co.uk/12C50/production/_103908867_pollo.jpg)
 |[imagen de un salmon](https://www.gastronomiavasca.net/uploads/image/file/3268/salmon.jpg)
