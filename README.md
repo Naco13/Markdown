@@ -53,10 +53,11 @@ public class Inicio {
 
 
 ##__imagenes__
+
 |[imagen de un pollo](http://c.files.bbci.co.uk/12C50/production/_103908867_pollo.jpg)
 |[imagen de un salmon](https://www.gastronomiavasca.net/uploads/image/file/3268/salmon.jpg)
 |[imagen de botella aceite](https://img.freepik.com/fotos-premium/aceite-cocina-botella-plastico-blanco_35712-553.jpg?w=2000)
-|[foto de otro repositorio](C:\Users\jiavi\OneDrive\Escritorio\N)
+|[foto interna](C:\Users\jiavi\OneDrive\Escritorio\N)
 
 
 ##__Tablas__
