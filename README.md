@@ -35,9 +35,7 @@ INDICE
 
 
 ### _Código_
-
 ```java
-
 import java.util.Scanner;
 
 public class Inicio {
@@ -57,7 +55,8 @@ public class Inicio {
 	}
 }
  
- 
+````
+
 ### _Enlaces_ 
 
  [pagina de google] (www.google.es)
