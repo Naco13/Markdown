@@ -36,6 +36,7 @@ INDICE
 
 ### _Código_
 
+```java
 
 import java.util.Scanner;
 
@@ -55,6 +56,7 @@ public class Inicio {
 
 	}
 }
+ 
  
 ### _Enlaces_ 
 
